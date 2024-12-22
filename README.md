@@ -26,7 +26,7 @@ This project is a machine learning-based web application designed to predict pla
 - **NumPy & Pandas**: For data manipulation.
 
 ### **Deployment**
-- **Streamlit Sharing** or **Cloud Service**: Application hosting.
+- **Streamlit Sharing** : Application hosting.
 
 ---
 
@@ -36,7 +36,7 @@ Follow these steps to set up the application locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/plant-disease-prediction.git
+   git clone https://github.com/Bunnyinfy/plant-disease-prediction.git
    cd plant-disease-prediction
    ```
 
@@ -94,14 +94,6 @@ Contributions are welcome! Feel free to raise issues or submit pull requests.
 
 ---
 
-## Future Enhancements
-
-- Add more plant types and disease categories.
-- Integrate multilingual support for broader accessibility.
-- Deploy to a scalable cloud platform like AWS or Google Cloud.
-
----
-
 ## License
 
 This project is licensed under the MIT License.
@@ -110,9 +102,8 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements
 
-- Plant dataset sourced from [Kaggle](https://www.kaggle.com/).
+- Plant dataset sourced from [Kaggle](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset).
 - Frameworks and tools: TensorFlow, Streamlit.
 
 ---
 
-Replace placeholder information like the GitHub repository URL and dataset source with your specific project details.
