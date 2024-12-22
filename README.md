@@ -103,7 +103,7 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements
 
-- Plant dataset sourced from [Kaggle](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset).
+- Plant dataset sourced from [Kaggle]([https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset]).
 - Frameworks and tools: TensorFlow, Streamlit.
 
 ---
