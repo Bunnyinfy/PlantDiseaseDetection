@@ -1,6 +1,6 @@
 ---
 
-# Plant Disease Prediction
+# Plant Disease Detection
 
 This project is a machine learning-based web application designed to predict plant diseases from leaf images. The application uses a pre-trained Convolutional Neural Network (CNN) model and is deployed using **Streamlit** for a simple and interactive user experience.
 
