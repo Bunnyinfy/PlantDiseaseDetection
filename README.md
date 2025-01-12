@@ -25,9 +25,6 @@ This project is a machine learning-based web application designed to predict pla
 - **TensorFlow/Keras**: For the CNN model.
 - **NumPy & Pandas**: For data manipulation.
 
-### **Deployment**
-- **Streamlit Sharing** : Application hosting.
-
 ---
 
 ## Installation
